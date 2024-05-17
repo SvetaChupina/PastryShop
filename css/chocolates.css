@@ -1,0 +1,82 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1920px;
+    font-size: 50pt;
+    height: 788px;
+    background-image: url("http://o-tendencii.com/uploads/posts/2022-02/thumbs/1645717119_58-o-tendencii-com-p-molochnii-shokolad-ruchnoi-raboti-foto-60.jpg");
+    background-size: 100% 200%;
+    background-position: center;
+}
+.shadowWel p{
+    text-transform: capitalize;
+    margin-top: 12%;
+    margin-left: 36%;
+    font-family: title;
+    font-size: 120pt;
+}
+.catalog{
+    width: 90%;
+    height: max-content;
+}
+.prodCt{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.product{
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    color: rgb(114, 75, 62);
+}
+.indCake{
+    color: rgb(114, 75, 62);
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 24pt;
+    font-family: nav;
+}
+.imgProd1,.imgProd2,.imgProd3,.imgProd4,.imgProd5,.imgProd6,.imgProd7,.imgProd8,.imgProd9{
+    width: 400px;
+    height: 400px;
+    background-size: 100% 130%;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.imgProd1{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/70/02/270/images/4412/4412.700.webp");
+}
+.imgProd2{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/72/02/272/images/4427/4427.700.webp");
+}
+.imgProd3{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/73/02/273/images/4434/4434.700.webp");
+}
+.imgProd4{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/74/02/274/images/4443/4443.700.webp");
+}
+.imgProd5{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/75/02/275/images/4449/4449.700.webp");
+}
+.imgProd6{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/66/02/266/images/1879/1879.700.webp");
+}
+.imgProd7{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/55/02/255/images/4369/4369.700.webp");
+}
+.imgProd8{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/62/02/262/images/1891/1891.700.webp");
+}
+.imgProd9{
+    background-image: url("http://siberia.eco/wa-data/public/shop/products/00/webp/59/02/259/images/1883/1883.700.webp");
+}
+.product b{
+    font-family: title;
+    font-size: 28pt;
+}
+.product p{
+    font-family: nav;
+    font-size: 18pt
+}

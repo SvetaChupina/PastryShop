@@ -1,0 +1,86 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1920px;
+    font-size: 50pt;
+    height: 788px;
+    background-image: url("http://sweetmarin.ru/userfls/editor/large/3/27138_0dacl46phzk.jpg");
+    background-size: 100% 150%;
+    background-position: center;
+}
+.shadowWel p{
+    text-transform: capitalize;
+    margin-top: 12%;
+    margin-left: 34%;
+    font-family: title;
+    font-size: 120pt;
+}
+.catalog{
+    width: 80%;
+}
+.filling{
+    color: rgb(114, 75, 62);
+    max-width: 1920px;;
+    height: 500px;
+}
+.info{
+    position: relative;
+    margin-left: 35%;
+    bottom: 50%;
+}
+.filling b{
+    font-size: 32pt;
+    font-family: title;
+}
+.filling p{
+    margin-top: 20px;
+    font-size: 21pt;
+    font-family: nav;
+}
+.indFilling{
+    color: rgb(114, 75, 62);
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 24pt;
+    font-family: nav;
+}
+.picture1,.picture2,.picture3,.picture4,.picture5,.picture6,.picture7,.picture8{
+    transform:translate(-50%,-50%);
+    position: relative;
+    left: -20%;
+    top: 50%;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    background-size: 100% 150%;
+    background-position: center;
+}
+.picture1{
+    background-image: url("https://optim.tildacdn.com/tild6238-3036-4433-b965-616637613837/-/format/webp/IMG_3306.JPG");
+}
+.picture2{
+    background-image: url("http://optim.tildacdn.com/tild3939-3862-4231-b334-306232646362/-/format/webp/photo.jpg");
+}
+.picture3{
+    background-image: url("http://optim.tildacdn.com/tild3333-3836-4234-b666-396638313863/-/format/webp/IMG_3309.JPG");
+}
+.picture4{
+    background-image: url("http://static.tildacdn.com/tild3838-3336-4337-a630-626639373266/IMG_3287.JPG");
+}
+.picture5{
+    background-image: url("http://optim.tildacdn.com/stor3830-3138-4436-b366-613330633738/-/format/webp/32190928.jpg");
+}
+.picture6{
+    background-image: url("http://optim.tildacdn.com/stor6361-6537-4631-a631-333963353864/-/format/webp/26156211.jpg");
+}
+.picture7{
+    background-image: url("http://optim.tildacdn.com/tild3837-3236-4663-b965-613539643337/-/format/webp/IMG_4497_jpg.JPG");
+}
+.picture8{
+    background-image: url("http://static.tildacdn.com/tild3437-6636-4763-a564-306435646663/IMG_3298.JPG");
+}
+.mainFil{
+    width: 100%;
+    height: max-content;
+}

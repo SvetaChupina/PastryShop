@@ -1,0 +1,82 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1920px;
+    font-size: 50pt;
+    height: 788px;
+    background-image: url("http://img.freepik.com/premium-photo/all-sorts-fruit-cakes-natural-colors-minimalist_849906-13537.jpg");
+    background-size: 100% 150%;
+    background-position: bottom;
+}
+.shadowWel p{
+    text-transform: capitalize;
+    margin-top: 12%;
+    margin-left: 36%;
+    font-family: title;
+    font-size: 120pt;
+}
+.catalog{
+    width: 90%;
+    height: max-content;
+}
+.prodCt{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.product{
+    text-align: center;
+    width: 400px;
+    height: 520px;
+    color: rgb(114, 75, 62);
+}
+.indCake{
+    color: rgb(114, 75, 62);
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 24pt;
+    font-family: nav;
+}
+.imgProd1,.imgProd2,.imgProd3,.imgProd4,.imgProd5,.imgProd6,.imgProd7,.imgProd8,.imgProd9{
+    width: 400px;
+    height: 400px;
+    background-size: 140% 100%;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.imgProd1{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/333/400_400_1/iiuoun3xt117hj88olekx09uvjvw85mi.jpg");
+}
+.imgProd2{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/9f7/400_400_1/9f7727b770842f1ab7c7c49be0c6b953.jpg");
+}
+.imgProd3{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/f1e/400_400_1/f1e8cd44b4efca0523607addff671fbb.jpg");
+}
+.imgProd4{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/3b6/400_400_1/3b638481d32b24130f928f3d26887592.jpg");
+}
+.imgProd5{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/fc4/400_400_1/fc438bc2b03371c5b8e3b12c423cb1a6.jpg");
+}
+.imgProd6{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/623/400_400_1/62342dfc32a3e85d35c9fc99abb16cad.jpg");
+}
+.imgProd7{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/973/400_400_1/973a13f49dc792211ab4a9da72d450c9.jpg");
+}
+.imgProd8{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/89b/400_400_1/kwtdyjom9483zcle94gjabfpxovpglos.png");
+}
+.imgProd9{
+    background-image: url("http://british-bakery.ru/upload/resize_cache/iblock/0b2/400_400_1/0b2591e5571ce04208332f8060271f6e.jpg");
+}
+.product b{
+    font-family: title;
+    font-size: 28pt;
+}
+.product p{
+    font-family: nav;
+    font-size: 18pt
+}

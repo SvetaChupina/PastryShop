@@ -1,0 +1,79 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1920px;
+    font-size: 50pt;
+    height: 788px;
+    background-image: url("https://fairycakes.ru/wp-content/uploads/2019/06/kapkejjki_set1.jpg");
+    background-size: 100% 200%;
+    background-position: center;
+}
+.shadowWell{
+    color: antiquewhite;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(43, 23, 14, 0.632);
+}
+.shadowWell p{
+    text-transform: capitalize;
+    margin-top: 12%;
+    margin-left: 33%;
+    font-family: title;
+    font-size: 120pt;
+}
+.catalog{
+    width: 90%;
+    height: max-content;
+}
+.prodCt{
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.product{
+    text-align: center;
+    width: 400px;
+    height: 520px;
+    color: rgb(114, 75, 62);
+}
+.indCake{
+    color: rgb(114, 75, 62);
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 24pt;
+    font-family: nav;
+}
+.imgProd1,.imgProd2,.imgProd3,.imgProd4,.imgProd5,.imgProd6,.imgProd7,.imgProd8,.imgProd9{
+    width: 400px;
+    height: 400px;
+    background-size: 100% 100%;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.imgProd1{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/79/02/279/images/285/285.970.png");
+}
+.imgProd2{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/75/02/275/images/281/281.970.png");
+}
+.imgProd3{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/94/00/94/images/98/98.970.png");
+}
+.imgProd4{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/86/00/86/images/90/90.970.png");
+}
+.imgProd5{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/60/00/60/images/64/64.970.png");
+}
+.imgProd6{
+    background-image: url("http://тортбери.рф/wa-data/public/shop/products/56/00/56/images/60/60.970.png");
+}
+.product b{
+    font-family: title;
+    font-size: 28pt;
+}
+.product p{
+    font-family: nav;
+    font-size: 18pt
+}

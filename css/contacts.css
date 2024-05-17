@@ -1,0 +1,26 @@
+.titleDel{
+    margin-top: 50px;
+    font-family: title;
+    font-size: 48pt;
+    display: flex;
+    justify-content: center;
+}
+.cont p{
+    margin-top: 25px;
+    margin-bottom: 37px;
+    font-family: nav;
+    font-size: 32pt;
+}
+.delSp{
+    font-family: title;
+    font-size: 48pt;
+}
+ul{
+    margin: 50px 0;
+}
+.cont li{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: nav;
+    font-size: 32pt; 
+}

@@ -1,0 +1,137 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1920px;
+    height: 788px;
+    background-image: url("https://treningi4you.com/upload/iblock/e4c/konditer_s_nulya_skillbox.jpg");
+    background-size: 100% 135%;
+    background-position: center;
+}
+.shadowWel p{
+    text-transform: capitalize;
+    margin-top: 12%;
+    margin-left: 24%;
+    font-family: title;
+    font-size: 120pt;
+}
+.shadowOrd{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(59, 50, 50, 0.705);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    font-size: 16pt;
+    font-family: nav;
+    padding-left: 20px;
+    width: 550px;
+    height: 60px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    background-color: rgba(255, 244, 237, 0.656);
+    border: 5px solid rgb(229, 206, 180);
+}
+.btn{
+    text-align: center;
+    color: rgb(110, 90, 87);
+    font-family: title;
+    background-color: rgb(246, 225, 212);
+    border: 5px solid rgb(229, 206, 180);
+    font-size: 21pt;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
+.advant{
+    background-color: rgba(44, 29, 29, 0.834);
+    padding: 0 50px;
+    height: 250px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.columnAdv{
+    font-family: nav;
+    font-size: 16pt;
+    text-align: center;
+    width: 450px;
+    height: 75%; 
+    color: antiquewhite;
+}
+.order{
+    height: 520px;
+    width: 100%;
+    background-image: url("http://sun9-73.userapi.com/impf/PyXm5UprtnDDDb2c042GoD0sqzyYR3m7nzI4Ig/VoNCtBc76F0.jpg?size=1818x606&quality=95&crop=0,217,1280,426&sign=f4cd760a2473ed726071932d6d447ca5&type=cover_group");
+    background-size: 100% 120%;
+    background-position: center;
+}
+.content{
+    padding: 0 50px;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(255, 248, 247)
+}
+.content a{
+    text-align: center;
+    width: 425px;
+    height: 85%;
+    font-size: 40pt;
+}
+.cake,.choco,.cupcake{
+    border-radius: 5%;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.cake{
+    background-image: url("http://i.pinimg.com/originals/c0/37/7f/c0377f90103d14e82017420c33d7ee76.jpg");
+}
+.choco{
+    background-image: url("http://i.pinimg.com/736x/f9/47/d8/f947d8ab694c9ffdd7db348fc674ae71.jpg");
+}
+.cupcake{
+    background-image: url("http://mykaleidoscope.ru/uploads/posts/2021-09/1632478113_25-mykaleidoscope-ru-p-shokoladnie-kapkeiki-s-shokoladnim-kremom-31.jpg");
+}
+.content p{
+    position: relative;
+    top: -60%;
+    text-transform: capitalize;
+    font-family: title;
+    color: rgb(255, 237, 227);
+}
+.shadow{
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+    background-color: rgb(60, 40, 32);
+    opacity: 50%;
+}
+.columnAdv b{
+    font-size: 23pt;
+}
+.shadowOrd b{
+    font-size: 28pt;
+    font-family: nav;
+    margin-bottom: 5px;
+    color: rgb(255, 237, 227);
+}
+.ord{
+    font-size: 24pt;
+    font-family: nav;
+    margin-bottom: 25px;
+    color: rgb(255, 237, 227);
+}
+.sogl{
+    font-size: 14pt;
+    font-family: nav;
+    margin-top: 15px;
+    color: rgba(255, 237, 227, 0.519);
+}
